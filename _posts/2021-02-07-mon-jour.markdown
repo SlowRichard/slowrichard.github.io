@@ -2,7 +2,7 @@
 layout: post
 title: "Mon Jour"
 date: 2021-02-07 19:51:00
-
+categories: monjour
 ---
 Ce dimanche matin, j'ai regardé le jeux du cricket.
 Ce soir, je me suis promené à l'étang de Bingham. 
